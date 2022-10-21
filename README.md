@@ -1,6 +1,8 @@
 <h3 align="center">Bem vindo(a)! Este é o repositório de projetos de uma universitária da UFMT.</h3>
 
 ###
+<img align="left" height="150" src="https://i.picasion.com/pic92/909dde46082532790dd101ca530c2350.gif"  />
+###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -18,7 +20,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.picasion.com/pic92/909dde46082532790dd101ca530c2350.gif"  />
+
 
 ###
 
