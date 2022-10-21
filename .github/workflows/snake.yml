@@ -17,7 +17,9 @@ jobs:
     steps:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
+        id: snake-gif
         with:
+          svg_out_path: dist/github-contribution-grid-snake.svg
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
