@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/MariaLuiseB/MariaLuiseB/blob/output/snake.svg alt="Snake animation)
+![Snake animation](https://github.com/MariaLuiseB/MariaLuiseB/blob/output/snake.svg)
 
 ###
