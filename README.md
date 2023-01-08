@@ -28,13 +28,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=MariaLuiseB" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="left" height="150" src="https://i.picasion.com/pic92/909dde46082532790dd101ca530c2350.gif"  />
-
-
-<br clear="both">
-
-![Snake animation](https://github.com/MariaLuiseB/MariaLuiseB/blob/output/snake.svg)
-
-###
