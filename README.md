@@ -1,8 +1,12 @@
 <h3 align="center">Bem vindo(a)! Este é o repositório de projetos de uma universitária da UFMT.</h3>
 
 ###
+<div align="center">
+  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-luise-britto/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marialuisebritto@gmail.com)
+
+</div>
 ###
 
 <div align="center">
