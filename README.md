@@ -1,4 +1,4 @@
-<h3 align="center">Bem vindo(a)! Este é o repositório de projetos de uma universitária da UFMT.</h3>
+<h3 align="right">Bem vindo(a)! Este é o repositório de projetos de uma universitária da UFMT.</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
