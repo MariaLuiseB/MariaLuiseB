@@ -11,7 +11,7 @@
 <div align="right">
   <img src=https://cdn-icons-png.flaticon.com/512/4359/4359958.png>
 </div>
-###
+
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-luise-britto/)
@@ -19,7 +19,6 @@
 
 </div>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=MariaLuiseB" height="150" alt="stats graph"  />
