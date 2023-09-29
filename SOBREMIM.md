@@ -1,4 +1,4 @@
-[<h2 align="center">Bem Vindo(a) ao repositório de projetos de uma universitária da UFMT.</h2>
+<h2 align="center">Bem Vindo(a) ao repositório de projetos de uma universitária da UFMT.</h2>
 
  <div align="center">
   <img src=https://cdn-icons-png.flaticon.com/512/4359/4359958.png height="200" width="200">
