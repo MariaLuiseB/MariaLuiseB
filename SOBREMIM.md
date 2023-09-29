@@ -1,10 +1,10 @@
-<h5 align="center">Bem Vindo(a) ao repositório de projetos de uma universitária da UFMT.</h5>
+<h2 align="center">Bem Vindo(a) ao repositório de projetos de uma universitária da UFMT.</h2>
 
  <div align="center">
   <img src=https://cdn-icons-png.flaticon.com/512/4359/4359958.png height="200" width="200">
 </div>
 
-  <h4 align="center">Tecnologias</h4>
+  <h2 align="center">Tecnologias</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -13,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
 
   
-  <h5 align="center">Contatos</h5>
+  <h2 align="center">Contatos</h2>
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-luise-britto/)
