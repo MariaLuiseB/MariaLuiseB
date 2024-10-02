@@ -4,7 +4,7 @@
   <img src="eu.png" alt="Minha Foto" align="right" width="200" style="margin-right: 20px;" />
   💻 Sou uma entusiasta de tecnologia, apaixonada por resolver problemas e criar soluções que realmente fazem a diferença! Bacharel em Ciência da Computação, e estou sempre buscando maneiras criativas de usar código para impactar positivamente o mundo. 🚀
   
-  Adoro trabalhar com **Java**, **Spring Boot** e explorar as infinitas possibilidades dos **bancos de dados**. Além disso, adoro **desafios de backend** e também flerto um pouquinho com o **frontend**. 😉  
+  Adoro trabalhar com **Java**, **Spring Boot** e explorar as infinitas possibilidades dos **bancos de dados** e também flerto um pouquinho com o **frontend**. 😉  
   Além disso, sou completamente viciada em séries e filmes, e quando não estou escrevendo código, provavelmente estou maratonando algo novo! 🎬
 </p>
 
