@@ -4,7 +4,7 @@
   <img src="eu.png" alt="Minha Foto" align="right" width="200" style="margin-right: 20px;" />
   💻 Sou uma entusiasta de tecnologia, apaixonada por resolver problemas e criar soluções que realmente fazem a diferença! Estou finalizando meu bacharel em Ciência da Computação, e estou sempre buscando maneiras criativas de usar código para impactar positivamente o mundo. 🚀
   
-  Adoro trabalhar com **Java**, **Spring Boot** e explorar as infinitas possibilidades dos **bancos de dados** e também flerto um pouquinho com o **frontend**. 😉  
+ Estou estudando **Javascript**, **Java** e **Spring Boot** para explorar as infinitas possibilidades dos **bancos de dados** e também flerto um pouquinho com o **frontend**. 😉  
   Além disso, sou completamente viciada em séries e filmes, e quando não estou escrevendo código, provavelmente estou maratonando algo novo! 🎬
 </p>
 
@@ -20,7 +20,7 @@
 
 ### Coisas legais sobre mim:
 
-- 👩‍💻 **Apaixonada por código**: Transformo café em soluções com Spring Boot e APIs.
+- 👩‍💻 **Apaixonada por código**: Transformo café em soluções com APIs.
 - 🌱 **Eterna aprendiz**: Sempre em busca de novos conhecimentos, seja nas áreas de **back-end** e até na área **front-end**.
 - 🎧 **Música + Código = Amor**: Integrei **API do Spotify** em um dos meus projetos, porque nada melhor do que música enquanto codamos!
 - 🌍 **Inglês intermediário**, mas "fluent" em ler documentações e StackOverflow! 😅
@@ -28,7 +28,7 @@
 ### Tecnologias e Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,linux,html,css,javascript&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,linux,html,css,javascript&theme=dark&perline=3" />
   </a>
 </p>
 
