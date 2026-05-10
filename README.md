@@ -2,21 +2,11 @@
 
 <p>
   <img src="eu.png" alt="Minha Foto" align="right" width="200" style="margin-right: 20px;" />
-  💻 Sou uma entusiasta de tecnologia, apaixonada por resolver problemas e criar soluções que realmente fazem a diferença! Estou finalizando meu bacharel em Ciência da Computação, e estou sempre buscando maneiras criativas de usar código para impactar positivamente o mundo. 🚀
+  💻 Sou Consultora SAP BTP e Desenvolvedora Web Full Stack, apaixonada por resolver problemas e criar soluções que realmente fazem a diferença! sou formada em Ciência da Computação, e estou sempre buscando maneiras criativas de usar código para impactar positivamente o mundo. 🚀
   
- Estou estudando **Javascript**, **Java** e **Spring Boot** para explorar as infinitas possibilidades dos **bancos de dados** e também flerto um pouquinho com o **frontend**. 😉  
+Meu foco principal é o Back-End e minhas principais tecnologias são **Javascript** e **NodeJS**, **Java** e **Spring Boot** para explorar as infinitas possibilidades dos **bancos de dados**, através da linguagem **SQL**, também flerto um pouquinho com o **frontend**, já realizei projetos com **HTML** e **CSS**, API's de filmes, músicas e entre outros. 😉  
   Além disso, sou completamente viciada em séries e filmes, e quando não estou escrevendo código, provavelmente estou maratonando algo novo! 🎬
 </p>
-
-
-
-### Minhas Estatísticas:
-<a href="https://github.com/MariaLuiseB/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MariaLuiseB&theme=nightowl&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaLuiseB&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
-</a>
 
 ### Coisas legais sobre mim:
 
