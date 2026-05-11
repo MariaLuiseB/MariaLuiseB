@@ -18,7 +18,7 @@ Meu foco principal é o Back-End e minhas principais tecnologias são **Javascri
 ### Tecnologias e Ferramentas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,html,css,sql,git&theme=dark&perline=3" />
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,html,css,mysql,git&theme=dark&perline=3" />
   </a>
 </p>
 
